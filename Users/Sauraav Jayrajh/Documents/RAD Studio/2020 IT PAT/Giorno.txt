@@ -1,0 +1,8 @@
+Item               Price
+------------------------
+Gummi Experience#15
+Muda Milkshake#25
+Dreamy Delight#35
+Passion Fruit Lemonade#30
+Golden Wafer#35
+

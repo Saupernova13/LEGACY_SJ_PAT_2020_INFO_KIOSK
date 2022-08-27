@@ -1,0 +1,8 @@
+Item               Price
+------------------------
+Fries of 4#20
+Six Shot Sausage#30
+Guido Granola#30
+Bullet Burrito#35
+Cheesy CrissCross#10
+
